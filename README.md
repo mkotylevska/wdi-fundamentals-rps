@@ -3,5 +3,3 @@
 # Rock Paper Scissors
 
 ## Objectives
-
-Make a game that plays 'Rock, Paper, Scissors' in the console.
